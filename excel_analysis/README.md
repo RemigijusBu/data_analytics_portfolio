@@ -17,3 +17,7 @@ Transform transactional sales data into a structured performance overview.
 This project analyzes subscription churn by calculating weekly retention cohorts.  
 SQL queries assign each user to a cohort based on the Monday of their subscription start week, then compute how many remain active in each of the following six weeks.    
 The query results are exported to Excel, where retention data is visualized with heatmaps and line charts.   
+
+## Financial analysis
+
+This financial analysis compares two investment scenarios: factory expansion and digital product development. Using a nominal cash-flow framework and metrics (NPV, IRR, Payback Period, ROI), the analysis evaluates projected cash flows over 2018–2024.
